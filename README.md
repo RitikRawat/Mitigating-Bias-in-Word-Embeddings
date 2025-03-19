@@ -49,7 +49,7 @@ This method **removes gender components geometrically** while keeping core meani
 
 | Metric                 | Original | Hard-Debiasing | Adversarial Debiasing |
 |------------------------|----------|----------------|------------------------|
-| **Direct Bias**        | 0.0919   | 0.0052         | 1.25 × 10⁻⁸            |
+| **Direct Bias**        | 0.0919   | 1.25 × 10⁻⁸    |      0.0052            |
 | **RG-65 Similarity**   | 0.7317   | 0.7167         | 0.7242                 |
 | **WordSim-353 Score**  | 0.6666   | 0.6521         | 0.6641                 |
 
